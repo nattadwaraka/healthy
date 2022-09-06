@@ -14,3 +14,4 @@ resistration process and details should be required
 <img width="948" alt="e" src="https://user-images.githubusercontent.com/53503359/188686584-c1ff6aba-59a3-40e8-9bab-3be3cc6913ba.png">
 link to the website
 
+https://lively-ground-02456c510.1.azurestaticapps.net
