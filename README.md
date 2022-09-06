@@ -1,4 +1,11 @@
 <h1>FUTURE READY TALENT PROJECT </h1>
+This is my future ready talent project
+
+<h1>Change For Life</h1>
+
+This is a static website developed using HTML,CSS and W3 framework.
+The motto of this organization is to provide good health and fitness to people.
+
  welcome to our website this is login page in our website
 <img width="949" alt="a" src="https://user-images.githubusercontent.com/53503359/188686385-b833d732-bbb7-466e-a19b-9934b1e36e9f.png">
 
